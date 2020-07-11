@@ -1,4 +1,4 @@
 git-work-flow
 
 
-I am in the developer2 branch
+This line is developer2's contribution to dedicated branch.
