@@ -1,5 +1,5 @@
 git-work-flow
 
-I am in the developer1 branch.
+This line is developer1's contribution to dedicated branch.
 
 
