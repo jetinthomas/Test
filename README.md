@@ -1,8 +1,3 @@
 git-work-flow
 
-
-I am in the master branch.
-
-I am after resolving the conflict.
-
-
+This line is developer5's contribution to dedicated branch.
