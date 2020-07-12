@@ -5,3 +5,4 @@ This is the dedicated branch displaying the contributions from each developer. T
 This line is developer1's contribution to dedicated branch.
 This line is developer2's contribution to dedicated branch.
 This line is developer3's contribution to dedicated branch.
+This line is developer4's contribution to dedicated branch.
