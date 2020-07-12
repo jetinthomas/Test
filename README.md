@@ -1,7 +1,3 @@
 git-work-flow
 
-This contribution to dedicated branch.
-git-wor  contribution to dedicated branch.
-
-
-
+This is the dedicated branch displaying the contributions from each developer. Their contributions are the following:
