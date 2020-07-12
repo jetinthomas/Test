@@ -1,3 +1,3 @@
 git-work-flow
 
-This line is developer1'
+This line is after resolving the conflict.
