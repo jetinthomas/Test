@@ -1,0 +1,11 @@
+git-work-flow
+
+<<<<<<< HEAD
+I am in the master branch.
+
+Hey, Watsup.
+=======
+I am in the master branch
+
+Hey, I have edited.
+>>>>>>> second-commit
